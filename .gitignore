@@ -44,4 +44,4 @@ Thumbs.db
 
 # Coverage reports
 coverage/
-*.lcov
+*.lcovad
